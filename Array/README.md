@@ -36,4 +36,14 @@ An array is a collection of elements of the same type placed in contiguous memor
  * Sum Of Two Array
  * Triplet Sum Problem 
  * Print Subarray whose Sum Is given
+ * First Postive Element In Array
+ * Longest Consecutive Subsequence 
+ * Maximum Product Subarray
+ * Merge Sorted Array
+ * Merge Sorting
+ * Remove Duplicates From Sorted Array
+ * Set Matrix Zero Problem
+ * Rotate Image Problem
+ * Search Insert Poistion Problem
+ 
  
