@@ -59,6 +59,20 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Sum Of Two Array
  * Triplet Sum Problem
  * Print Subarray whose Sum Is given
+ * contain Duplicates 
+ * Count Inversion
+ * Count Prime
+ * Count Sort
+ * DNF Sort
+ * Find Peak Element
+ * House Robber
+ * Longest Substring without repeating Characters
+ * Maximum Gap
+ * Quick  Sort
+ * Replace element with its order
+ * Rotate Array
+ * Two sum input array is sorted
+ * Wave sort
  
  ## Bit Manipulation Program's :
  
