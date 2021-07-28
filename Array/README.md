@@ -45,5 +45,18 @@ An array is a collection of elements of the same type placed in contiguous memor
  * Set Matrix Zero Problem
  * Rotate Image Problem
  * Search Insert Poistion Problem
- 
+ * contain Duplicates 
+ * Count Inversion
+ * Count Prime
+ * Count Sort
+ * DNF Sort
+ * Find Peak Element
+ * House Robber
+ * Longest Substring without repeating Characters
+ * Maximum Gap
+ * Quick  Sort
+ * Replace element with its order
+ * Rotate Array
+ * Two sum input array is sorted
+ * Wave sort
  
