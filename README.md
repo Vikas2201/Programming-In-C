@@ -146,4 +146,6 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Permutation 2
  * Permutation using inbuilt function
  * Rat in maze
+ * Count Valley's
+ * New Year Chaos Problem
 
