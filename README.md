@@ -73,6 +73,8 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Rotate Array
  * Two sum input array is sorted
  * Wave sort
+ * Array Manipulation problem
+ * Minimum swap to sort a array
  
  ## Bit Manipulation Program's :
  
