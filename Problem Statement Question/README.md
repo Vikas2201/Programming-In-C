@@ -18,3 +18,5 @@
   * Permutation 2
   * Permutation using inbuilt function
   * Rat in maze 
+  * Count Valley's 
+  * New Year Chaos Problem
