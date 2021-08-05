@@ -70,4 +70,7 @@ An array is a collection of elements of the same type placed in contiguous memor
  * Single Number 3
  * Siliding Windows Maximum
  * Summary Ranges
+ * Array Manipulation problem
+ * Minimum swap to sort a array
+ 
  
