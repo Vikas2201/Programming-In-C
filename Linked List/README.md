@@ -16,3 +16,19 @@ A linked list is a linear data structure, in which the elements are not stored a
   * Deletion before a certain node
   * Complete Linked list Insertion Deletion Program
   * Searching In Linked List
+  * Append Last K Node Of Linked List At The Begining Of Linked List
+  * Complete Doubly Linked List Program
+  * Complete Deletion Program In Doubly Linked List
+  * Detect Cycle In Linked List
+  * Complete Insertion IProgram In Doubly Linked List
+  * Intersection Point In Linked List
+  * Merge Two Linked List To Form A Sorted Linked List
+  * Print Linked List In Reverse Order
+  * Remove Cycle In Linked List
+  * Reverse A Linked List
+  * Reverse A Linked List Using Recursion 
+  * Reverse Doubly Linked List
+  * Reverse K Node In Linked List
+  * Searching In Doubly Linked List
+  * Insertion In Sorted Linked List
+  
