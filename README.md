@@ -1,16 +1,20 @@
-# programming-in-C-C++
+# programming-in-C-C++ :
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in my B.Tech Journey at Netaji Subhas University of Technology as a Computer Engineering Undergraduate. I hope This will come useful. Feel free to contribute to this repositry, I'll Happily accept any pull Requests or issues.
 
 # Overview : 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * This repository is a conglomeration of data Structure , Sorting , Pattern Programs and Competitive programming algorithms and related area. It currently features C/C++ and   Python Implementation. It Contain many advance algorithms like greedy , Dynamic etc and data structures like stack , tree , graph , queue , array , linked list.
  * Do ⭐ the repository , if it helped you in anyway.
 
 # Contents :
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ## Pattern Program's :
- 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  * 0-1 Pattern
  * Butterfly Pattern
  * Diagonal and side of a rectangle 
@@ -26,7 +30,8 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Right Arrow 
 
  ## Array :
- 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  * Linear Search
  * Binary Search
  * Bubble Sort
@@ -77,7 +82,8 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Minimum swap to sort a array
  
  ## Bit Manipulation Program's :
- 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  * Clear Bit
  * Set Bit
  * Update Bit
@@ -90,7 +96,8 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Print Unique Element In An Array Where All Elements Are Present Thrice Else One Element
  
  ## Function And Recursion Problem's :
- 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  * 0-1 Knapsack Problem Using Recursion
  * Added Two Binary Number Using Function
  * Calculate nCr Using Function
@@ -128,6 +135,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Tower Of Hanoi Problem Using Recursion
 
 # Problem Statement Based Question :
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Best Time to buy and sell stock's
  * Best time to buy and sell stock's 2
@@ -150,11 +158,9 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Count Valley's
  * New Year Chaos Problem
 
-# LINKED LIST 👎
+# Linked List Program's :-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
-
-# Program's :-
  * Insertion in the beginning
  * Insertion in the ending
  * Insertion after a certain node
@@ -181,4 +187,19 @@ A linked list is a linear data structure, in which the elements are not stored a
  * Reverse K Node In Linked List
  * Searching In Doubly Linked List
  * Insertion In Sorted Linked List
- 
+
+# String Program's :
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ * Convert String Into Lower And Upper Case
+ * From Biggest Number From Input Numeric String
+ * Frequency Count
+ * Integer To Roman Number
+ * Roman To Integer Number
+ * Letter Combinations Of A Phone Number
+ * Longest Common Prefix
+ * Longest Palindromic Substring
+ * One String Is A Subset Of Another String
+ * Pertices Problem
+ * String To Integer
+ * Zig Zag Conversion
