@@ -11,4 +11,19 @@ The main stack operations are:
 * empty() :- Checks whether a stack is empty
 * full() :-	Checks whether a stack is at maximum capacity when stored in a static (fixed-size) structure
 
+![stack_representation](https://user-images.githubusercontent.com/76476273/130733601-c5d2bb66-b3d1-4e43-8427-f5a8302945f4.jpg)
 
+
+# Stack Data Structure Based Program's
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ * Stack As Array
+ * Stack As Linked List
+ * Reverse A Stack
+ * Reverse A Sentence Using Stack
+ * Prefix Evaluation 
+ * Postfix Evaluation
+ * Infix To Postfix
+ * Infix To Prefix
+ * Balances Parenthesis 
+ 
