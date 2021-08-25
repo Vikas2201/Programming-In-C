@@ -208,4 +208,12 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Zig Zag Conversion
  * Valid Parenthesis
  * Generate Valid Parenthesis
+ * Add Binary Strings
+ * Count Valid Parenthesis
+ * Edit Distance
+ * Group Anagrams Strings
+ * Length of last word in string
+ * Longest Vaild Parenthesis
+ * Making a String Anagram
+ * Special String Again
  
