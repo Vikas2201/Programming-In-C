@@ -19,4 +19,13 @@ A string variable contains a collection of characters surrounded by double quote
  * Zig Zag Conversion
  * Valid Parenthesis 
  * Generate Valid Parenthesis 
+ * Add Binary Strings
+ * Count Valid Parenthesis 
+ * Edit Distance
+ * Group Anagrams Strings
+ * Length of last word in string
+ * Longest Vaild Parenthesis
+ * Making a String Anagram
+ * Special String Again
+  
  
