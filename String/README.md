@@ -27,5 +27,7 @@ A string variable contains a collection of characters surrounded by double quote
  * Longest Vaild Parenthesis
  * Making a String Anagram
  * Special String Again
+ * Count Maximum Consecutive One's
+ * Longest Substring Without Repeating Characters 
   
  
