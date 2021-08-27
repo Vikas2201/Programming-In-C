@@ -217,6 +217,9 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Longest Vaild Parenthesis
  * Making a String Anagram
  * Special String Again
+ * Count Maximum Consecutive One's
+ * Longest Substring Without Repeating Characters
+ 
  
 # Stack Data Structure Based Program's
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
