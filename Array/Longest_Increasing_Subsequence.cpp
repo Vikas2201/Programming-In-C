@@ -1,49 +1,54 @@
-/* Given an integer array nums, return the length of the longest strictly increasing subsequence.
-
-A subsequence is a sequence that can be derived from an array by deleting some or no elements without changing 
-the order of the remaining elements. */
-
 #include<bits/stdc++.h>
 using namespace std;
 
-int lengthOfLIS(vector<int>& nums) 
+vector<int> longest_seq(vector<int> arr)
 {
-    vector<int> sub;
-    sub.push_back(nums[0]);
-    for(int i=1; i<nums.size(); i++) 
+    int n= arr.size();
+
+    vector<vector<int>> lis(n);
+    lis[0].push_back(arr[0]);
+
+    for(int i=1;i<n;i++)
     {
-        if(sub[sub.size()-1] < nums[i]) 
+        for(int j=0;j<i;j++)
         {
-            sub.push_back(nums[i]);
-        }
-        else 
-        {
-            for(int j=0; j < sub.size(); j++) 
+            if(arr[i] > arr[j] && lis[i].size() < lis[j].size()+1)
             {
-                if(sub[j] >= nums[i]) 
-                {
-                    sub[j] = nums[i];
-                    break;
-                }
+                lis[i] = lis[j];
             }
         }
+        lis[i].push_back(arr[i]);
+    } 
+
+    vector<int> max = lis[0];
+    for( vector<int> i : lis)
+    {
+        if(i.size() > max.size())
+        {
+            max = i;
+        }
     }
-    return sub.size();
+    return max;
 }
 
 int main()
 {
     int n;
-    cout<<"Enter size : ";
+    cout<<"\nENTER SIZE : ";
     cin>>n;
 
-    vector<int> nums(n);
-    cout<<"Enter element : ";
+    vector<int> arr(n);
     for(int i=0;i<n;i++)
     {
-        cin>>nums[i];
+        cin>>arr[i];
     }
 
-    cout<<"Length of Longest Increasing Sub sequence : "<<lengthOfLIS(nums);
+    vector<int> res;
+    res = longest_seq(arr);
+    cout<<"\nLONGEST SUBSEQUENCE : ";
+    for(auto i : res)
+    {
+        cout<<i<<" ";
+    }
     return 0;
 }
