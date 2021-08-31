@@ -221,11 +221,15 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Longest Substring Without Repeating Characters
  
  
-# Stack Data Structure Based Program's
+# Stack And Queue Data Structure Based Program's
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Stack As Array
  * Stack As Linked List
+ * Queue As Array
+ * Queue As Linked List
+ * Queue as stack
+ * Stack As Queue
  * Reverse A Stack
  * Reverse A Sentence Using Stack
  * Prefix Evaluation
@@ -233,3 +237,12 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Infix To Postfix
  * Infix To Prefix
  * Balances Parenthesis
+ * Container With Most Water
+ * Largest rectangle area
+ * maximum sliding window
+ * min_max riddles
+ * Redundant Parenthesis
+ * Stacking Using Queue
+ * Stock Span Problem
+ * Trapping Rain Water Harvesting
+ * Trapping rain water using two pointer solution
