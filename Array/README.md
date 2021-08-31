@@ -73,5 +73,8 @@ An array is a collection of elements of the same type placed in contiguous memor
  * Array Manipulation problem
  * Minimum swap to sort a array
  * Maximum Subarray Sum In O(n) Time Complexity 
+ * Find Equilibrium Index of array
+ * Longest Increasing subsequences
+ * Largest Number
  
  
