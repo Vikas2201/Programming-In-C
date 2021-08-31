@@ -14,11 +14,33 @@ The main stack operations are:
 ![stack_representation](https://user-images.githubusercontent.com/76476273/130733601-c5d2bb66-b3d1-4e43-8427-f5a8302945f4.jpg)
 
 
-# Stack Data Structure Based Program's
+
+
+# Queue
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Queues are a type of container adaptors which operate in a first in first out (FIFO) type of arrangement. Elements are inserted at the back (end) and are deleted from the front. Queues use an encapsulated object of deque or list (sequential container class) as its underlying container, providing a specific set of member functions to access its elements.
+
+The functions supported by queue are : 
+
+empty() :– Returns whether the queue is empty.
+size() :– Returns the size of the queue.
+queue::front() and queue::back() :– front() function returns a reference to the first element of the queue. back() function returns a reference to the last element of the queue.
+push(g) and pop() :– push() function adds the element ‘g’ at the end of the queue. pop() function deletes the first element of the queue.
+
+![queue](https://user-images.githubusercontent.com/76476273/131555884-d5345a70-aab3-4ff4-a0db-4ce1dd9bda38.png)
+
+
+
+# Stack And Queue Data Structure Based Program's
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Stack As Array
  * Stack As Linked List
+ * Queue As Array
+ * Queue As Linked List
+ * Queue as stack
+ * Stack As Queue
  * Reverse A Stack
  * Reverse A Sentence Using Stack
  * Prefix Evaluation 
@@ -26,4 +48,13 @@ The main stack operations are:
  * Infix To Postfix
  * Infix To Prefix
  * Balances Parenthesis 
+ * Container With Most Water
+ * Largest rectangle area
+ * maximum sliding window
+ * min_max riddles
+ * Redundant Parenthesis
+ * Stacking Using Queue
+ * Stock Span Problem
+ * Trapping Rain Water Harvesting
+ * Trapping rain water using two pointer solution
  
