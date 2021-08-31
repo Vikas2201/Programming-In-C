@@ -29,5 +29,12 @@ A string variable contains a collection of characters surrounded by double quote
  * Special String Again
  * Count Maximum Consecutive One's
  * Longest Substring Without Repeating Characters 
+ * Check if a string is a substring of another string
+ * Compare versions number
+ * Excel sheet column number
+ * excel sheet column title
+ * Isomorphic String
+ * Repeated DNA Subsequences
+ 
   
  
