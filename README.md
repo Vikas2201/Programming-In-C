@@ -246,3 +246,25 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Stock Span Problem
  * Trapping Rain Water Harvesting
  * Trapping rain water using two pointer solution
+
+# Program Based on Tree Data Structure 
+------------------------------------------------------------------------------------------
+
+* Binary tree
+* Build tree using inorder and preorder Sequences 
+* Bulid tree using inorder and postorder Sequences 
+* Check A Tree is balanced Or Not
+* Count number of nodes in present in tree
+* Diagonally Tree Traversal In Tree
+* Diameter of Binary Tree
+* Foldable Binary tree
+* Height of binary tree
+* Level Order Traversal
+* Post Order Traversal
+* Pre Order Traversal
+* Optimal solution for Diameter of Binary Tree Problem
+* Sum of all nodes values in tree
+* Sum of Nodes value present at Kth level
+* Sum Replacements in binary tree
+* Tree Traversal
+* Zig Zag Traversal
