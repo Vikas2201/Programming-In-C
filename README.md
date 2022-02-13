@@ -191,6 +191,9 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Insertion In Circular Linked List
  * Deletion In Circular Linked List
  * Put Even Position Node At The End Of Odd Position Node
+ * Merge_Two_List_In_Sorted_Order
+ * Longest_Increasing_Subsequence
+ * Shortest_Distance_Between_2_nodes
 
 # String Program's :
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
