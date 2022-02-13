@@ -31,4 +31,6 @@ A tree is a hierarchical data structure defined as a collection of nodes. Nodes 
 * Sum Replacements in binary tree
 * Tree Traversal
 * Zig Zag Traversal
+* left_view_of_binary_tree
+* flatten_of_binary_tree.cpp
 
