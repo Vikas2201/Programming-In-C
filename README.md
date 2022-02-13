@@ -3,8 +3,9 @@
 
 Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in my B.Tech Journey at Netaji Subhas University of Technology as a Computer Engineering Undergraduate. I hope This will come useful. Feel free to contribute to this repositry, I'll Happily accept any pull Requests or issues.
 
-LeetCode Profile Link :- https://leetcode.com/Vikas4555/
+LeetCode Profile Link :-  <a href="https://leetcode.com/Vikas4555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayan2809" height="30" width="40" /></a>
 
+Hackerrank Profile Link :- <a href="https://www.hackerrank.com/vikas2212000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayan_sadhukhan21" height="30" width="40" /></a>
 
 
 # Overview : 
