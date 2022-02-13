@@ -1,7 +1,11 @@
-# programming-in-C-C++ :
+# Programming-in-C-C++ :
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in my B.Tech Journey at Netaji Subhas University of Technology as a Computer Engineering Undergraduate. I hope This will come useful. Feel free to contribute to this repositry, I'll Happily accept any pull Requests or issues.
+
+LeetCode Profile Link :- https://leetcode.com/Vikas4555/
+
+
 
 # Overview : 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,7 +16,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
 # Contents :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- ## Pattern Program's :
+ # Pattern Program's :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * 0-1 Pattern
@@ -29,7 +33,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Diagonal & Sides of a Rectangle and Rhombus
  * Right Arrow 
 
- ## Array :
+ # Array :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Linear Search
@@ -82,7 +86,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Minimum swap to sort a array
  * Maximum Subarray Sum In O(n) Time Complexity
  
- ## Bit Manipulation Program's :
+ # Bit Manipulation Program's :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Clear Bit
@@ -96,8 +100,8 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Print Two Unique Element In An Array Where All Elements Are Present Twice Else Two Element
  * Print Unique Element In An Array Where All Elements Are Present Thrice Else One Element
  
- ## Function And Recursion Problem's :
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Function And Recursion Problem's :
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * 0-1 Knapsack Problem Using Recursion
  * Added Two Binary Number Using Function
@@ -159,7 +163,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Count Valley's
  * New Year Chaos Problem
 
-# Linked List Program's :-
+# Linked List Program's :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Insertion in the beginning
@@ -224,7 +228,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Longest Substring Without Repeating Characters
  
  
-# Stack And Queue Data Structure Based Program's
+# Stack Data Structure Based Program's :
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Stack As Array
@@ -251,7 +255,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
  * Trapping rain water using two pointer solution
 
 
-# Queue Data Structure Based Program's
+# Queue Data Structure Based Program's :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   * Reverse_A_Queue
@@ -269,7 +273,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
   * Queue_Using_Stack
   * Redundant_Parenthesis
 
-# Program Based on Tree Data Structure 
+# Program Based on Tree Data Structure : 
 ------------------------------------------------------------------------------------------
 
 * Binary tree
@@ -293,7 +297,7 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
 * left_view_of_binary_tree
 * flatten_of_binary_tree
 
-Love Babar DSA Questions
+# Love Babar DSA Questions : 
 ---------------------------------------------------------
 
 * All The Questions Are Available In The Doucment Pls Find it 👎
