@@ -268,3 +268,5 @@ Hi , I'm Vikas and This is my Compiled C++ Programs Codes That I have Learned in
 * Sum Replacements in binary tree
 * Tree Traversal
 * Zig Zag Traversal
+* left_view_of_binary_tree
+* flatten_of_binary_tree
