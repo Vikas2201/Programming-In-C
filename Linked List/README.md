@@ -34,4 +34,7 @@ A linked list is a linear data structure, in which the elements are not stored a
   * Insertion In Circular Linked List
   * Deletion In Circular Linked List
   * Put Even Position Node At The End Of Odd Position Node
+  * Merge_Two_List_In_Sorted_Order
+  * Longest_Increasing_Subsequence
+  * Shortest_Distance_Between_2_nodes
   
